@@ -1,0 +1,38 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Useful Channels!",
+      "color": 11095551,
+      "fields": [
+        {
+          "name": "Welcome",
+          "value": "<#957433951478243348>"
+        },
+        {
+          "name": "Rules",
+          "value": "<#1222366707201478686>"
+        },
+        {
+          "name": "Directory",
+          "value": "<#1222359646468050985>"
+        },
+        {
+          "name": "Announcements",
+          "value": "<#962496933946081301>"
+        },
+        {
+          "name": "Updates",
+          "value": "<#1003245663661867128>"
+        },
+        {
+          "name": "Roles",
+          "value": "<#957821492941426778>"
+        }
+      ]
+    }
+  ],
+  "username": "Raboneko",
+  "avatar_url": "https://raw.githubusercontent.com/FyraLabs/homepage/main/src/assets/people/raboneko.webp",
+  "attachments": []
+}
